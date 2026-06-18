@@ -18,6 +18,9 @@ O jogo é dividido em 3 fases progressivas, onde o jogador precisa resolver prob
 
 ## 🎨 Estética Visual
 O projeto conta com uma identidade visual **Retro Pixel Art**, inspirada nos clássicos jogos de arcade, utilizando estilização personalizada para criar uma atmosfera imersiva de exploração e aprendizado.
+<img width="1536" height="1024" alt="fase3" src="https://github.com/user-attachments/assets/1d5eb394-0082-492e-b2f3-a6a6d5f266a9" />
+<img width="1536" height="1024" alt="fase1" src="https://github.com/user-attachments/assets/1171e978-b683-46a4-a957-cd85258e00f0" />
+
 
 ---
 
